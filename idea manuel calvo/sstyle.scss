@@ -1,0 +1,36 @@
+@import "header";
+@import "main";
+@import "footer";
+@import "preguntas";
+
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto Slab', serif;
+    font-size: 1rem;
+    background-color: black;
+}
+
+.formulario{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    background-color: rgb(101, 173, 173);
+    margin: 10px;
+}
+
+.pagos{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    background-color: rgb(101, 173, 173);
+    margin: 10px;
+}
+
+
